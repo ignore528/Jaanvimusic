@@ -1,5 +1,5 @@
 <h2 align="center">
-  ❣  𝐉𝐚𝐧𝐧𝐯𝐢 𝐌𝐮𝐬𝐢𝐜 [ Sᴜᴘᴇʀ ʙᴏᴛ ] ❣
+  ❣ ᴍᴀʜᴀ ꭙ ᴍᴜsɪᴄ  [ Sᴜᴘᴇʀ ʙᴏᴛ ] ❣
 </h2>
 
 <h3 align="center">
@@ -9,11 +9,11 @@
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ignore528/Jaanvimusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/4me3tg.jpg">
+  <img src="https://files.catbox.moe/ohug4t.jpg">
 </p>
 
 <h4 align="center">
-    jaanvi music
+    ᴍᴀʜᴀ ꭙ ᴍᴜsɪᴄ
 </h4>
 
 
@@ -26,7 +26,7 @@
 <a href="https://t.me/+v40WYcSPzpU2Y2Y1"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://t.me/TEAM_CHOR"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/IGNORE_ABUT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝐓𝐄𝐀𝐌 𝐂𝐇𝐎𝐑](https://t.me/TEAM_CHOR)ғᴏʀ [𝐉𝐚𝐚𝐧𝐯𝐢 𝐌𝐮𝐬𝐢𝐜](https://t.me/TEAM_CHOR)_</b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [TEAM IGNORE](https://t.me/IGNORE_ABUT)ғᴏʀ [ᴍᴀʜᴀ ꭙ ᴍᴜsɪᴄ](https://t.me/IGNORE_ABUT)_</b>

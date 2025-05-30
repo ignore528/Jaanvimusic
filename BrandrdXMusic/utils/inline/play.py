@@ -67,8 +67,8 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
             InlineKeyboardButton(text="〄", callback_data=f"ADMIN Stop|{chat_id}"),
         ],
  
-        [InlineKeyboardButton(text="🥂  ᴀᴅᴅ ᴍᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🥂", url=f"https://t.me/Jaanvi_music_robot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users")],
-        [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
+        [InlineKeyboardButton(text="𝐀𝐃𝐃 𝐌𝐄", url=f"https://t.me/Jaanvi_music_robot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users")
+        InlineKeyboardButton(text=_["𝐂𝐥𝐨𝐬𝐞"], callback_data="close")],
     ]
     return buttons
 

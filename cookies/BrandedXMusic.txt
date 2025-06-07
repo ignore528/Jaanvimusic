@@ -2,18 +2,6 @@
 # https://curl.haxx.se/rfc/cookie_spec.html
 # This is a generated file! Do not edit.
 
-.youtube.com	TRUE	/	TRUE	1764686089	VISITOR_INFO1_LIVE	yvIhK9zAAXE
-.youtube.com	TRUE	/	TRUE	1764686089	VISITOR_PRIVACY_METADATA	CgJJThIEGgAgIw%3D%3D
-.youtube.com	TRUE	/	TRUE	1764686089	__Secure-ROLLOUT_TOKEN	CO3Mm5uXv8uBMRDr4bDorN2MAxj9gIKgwNqNAw%3D%3D
-.youtube.com	TRUE	/	TRUE	1783694125	PREF	f6=40000000&tz=Asia.Kolkata&f7=100
-.youtube.com	TRUE	/	TRUE	1777210880	__Secure-1PSIDTS	sidts-CjEBjplskMnJUqub0czZiQT_7f2qx9LvnaOv9PjDty7SGx-51Pyg9g9zyEKnOXaB10olEAA
-.youtube.com	TRUE	/	TRUE	1777210880	__Secure-3PSIDTS	sidts-CjEBjplskMnJUqub0czZiQT_7f2qx9LvnaOv9PjDty7SGx-51Pyg9g9zyEKnOXaB10olEAA
-.youtube.com	TRUE	/	TRUE	1782197579	__Secure-3PAPISID	1_tzGfOqrieDx70f/AcSjY1INXa_vkt9Kx
-.youtube.com	TRUE	/	TRUE	1782197579	__Secure-3PSID	g.a000xAhx_C0ci7CIgPKlxSW2eVvKvYF3dM_yJ-hXRyel69H4j_lLVd0p-YD-A0xMtUFULC6TjwACgYKAXYSARcSFQHGX2MiG6xFc4Th7FiuwGCOD574shoVAUF8yKrh8lhQ_EHC2fV6PE5_w2xu0076
-# Netscape HTTP Cookie File
-# https://curl.haxx.se/rfc/cookie_spec.html
-# This is a generated file! Do not edit.
-
 www.wikipedia.org	FALSE	/	TRUE	1751332012	WMF-Last-Access	30-May-2025
 .wikipedia.org	TRUE	/	TRUE	1751332012	WMF-Last-Access-Global	30-May-2025
 www.wikipedia.org	FALSE	/	TRUE	1748598775	NetworkProbeLimit	0.001
